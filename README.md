@@ -83,7 +83,7 @@
 <h2 align="left">Find Me Here</h2>
 
 <p align="left">
-  <a href="https://github.com/Lingeswaran2018" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" /></a>
+  <a href="https://github.com/Apinaja08" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" /></a>
   <a href="https://www.linkedin.com/in/sathiyalokeswaran-lingeswaran-3b403720a/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
   <a href="https://huggingface.co/Lingalingeswaran" target="_blank"><img src="https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=FFCC4D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HuggingFace logo" /></a>
   <a href="https://linga-ai-solutions.streamlit.app/" target="_blank"><img src="https://img.shields.io/static/v1?message=Streamlit&logo=streamlit&label=&color=FF4B4B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Streamlit logo" /></a>
