@@ -24,14 +24,14 @@
 <!-- <img align="right" height="150" src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=ecf05e4713wzhj3gvmm3ckwdkhqzqybhox6v4p5yc9s73cyf&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Welcome to AI World" /> -->
 
 
-<p align="left">
+<!-- <p align="left">
 ✨ Passionate about Artificial Intelligence, Machine Learning, and Large Language Models (LLMs).<br>
 📚 Final-year Electrical Engineering undergraduate at the University of Moratuwa.<br>
 🔬 Focused on fine-tuning LLMs, speech processing, and AI-driven chatbot development.<br>
 <!-- 🚀 AI Intern at Yarl IT Hub, working on real-world AI solutions.<br> -->
 🎯 Goals: Advancing AI-driven automation and contributing to AI research.<br>
 🎲 Fun fact: Built a real-time YOLOv8-based customer identification system for a restaurant! 🍽
-</p>
+</p> -->
 
 ###
 <h2 align="left">Technologies & Tools I Use</h2>
@@ -69,14 +69,14 @@
 
 ###
 
-<h2 align="left">Projects</h2>
+<!-- <h2 align="left">Projects</h2>
 
 <ul>
   <li><b>🎙 Voice-to-Text Model for Low-Resource Languages</b> - Fine-tuned OpenAI Whisper for Tamil & Sinhala transcription.</li>
   <li><b>🤖 AI Chatbot for Restaurants</b> - Built using LLaMA 2, fine-tuned with domain-specific Q&A datasets.</li>
   <li><b>👥 Real-Time Customer Identification System</b> - Developed using YOLOv8 for restaurant environments.</li>
   <li><b>🎮 Snake Game</b> - Designed in C++ with joystick controls and Wokwi simulation.</li>
-</ul>
+</ul> -->
 
 ###
 
