@@ -72,18 +72,7 @@ Hi, I’m Apinaja!
 </div>
 
 
-###
 
- <h2 align="left">Projects</h2>
-
-<ul>
-  <li><b>🎙 Voice-to-Text Model for Low-Resource Languages</b> - Fine-tuned OpenAI Whisper for Tamil & Sinhala transcription.</li>
-  <li><b>🤖 AI Chatbot for Restaurants</b> - Built using LLaMA 2, fine-tuned with domain-specific Q&A datasets.</li>
-  <li><b>👥 Real-Time Customer Identification System</b> - Developed using YOLOv8 for restaurant environments.</li>
-  <li><b>🎮 Snake Game</b> - Designed in C++ with joystick controls and Wokwi simulation.</li>
-</ul> 
-
-###
 
 <h2 align="left">Find Me Here</h2>
 
