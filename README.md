@@ -86,7 +86,7 @@
   <a href="https://github.com/Apinaja08" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" /></a>
   <a href="https://www.linkedin.com/in/apinaja-elagumeeharan-403249262/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
   </a>
-  <a href="mailto:lingalingeswaran99@gmail.com" target="_blank">
+  <a href="mailto:eapinaja@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
 </p>
