@@ -24,14 +24,19 @@
 <!-- <img align="right" height="150" src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=ecf05e4713wzhj3gvmm3ckwdkhqzqybhox6v4p5yc9s73cyf&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Welcome to AI World" /> -->
 
 
-<!-- <p align="left">
-✨ Passionate about Artificial Intelligence, Machine Learning, and Large Language Models (LLMs).<br>
-📚 Final-year Electrical Engineering undergraduate at the University of Moratuwa.<br>
-🔬 Focused on fine-tuning LLMs, speech processing, and AI-driven chatbot development.<br>
- 🚀 AI Intern at Yarl IT Hub, working on real-world AI solutions.<br> 
-🎯 Goals: Advancing AI-driven automation and contributing to AI research.<br>
-🎲 Fun fact: Built a real-time YOLOv8-based customer identification system for a restaurant! 🍽
-</p> -->
+Hi, I’m Apinaja!
+
+🎓 Currently a 3rd-year undergraduate student passionate about software development and real-world problem-solving.
+
+💡 I love building applications with the MERN stack, Android Studio, and modern web technologies.
+
+🌱 Exploring UI/UX design, APIs, and full-stack development.
+
+🚀 Some of my projects include E-Voting System (MERN), GreenLanka (waste management & food supply chain app), and Juicy Bliss (juice bar mobile app).
+
+🤝 Open to collaborating on projects that create meaningful impact.
+
+📫 Reach me at eapinaja@gmail.com
 
 ###
 <h2 align="left">Technologies & Tools I Use</h2>
