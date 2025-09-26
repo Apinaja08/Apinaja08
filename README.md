@@ -28,7 +28,7 @@
 ✨ Passionate about Artificial Intelligence, Machine Learning, and Large Language Models (LLMs).<br>
 📚 Final-year Electrical Engineering undergraduate at the University of Moratuwa.<br>
 🔬 Focused on fine-tuning LLMs, speech processing, and AI-driven chatbot development.<br>
-<!-- 🚀 AI Intern at Yarl IT Hub, working on real-world AI solutions.<br> -->
+ 🚀 AI Intern at Yarl IT Hub, working on real-world AI solutions.<br> 
 🎯 Goals: Advancing AI-driven automation and contributing to AI research.<br>
 🎲 Fun fact: Built a real-time YOLOv8-based customer identification system for a restaurant! 🍽
 </p> -->
